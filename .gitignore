@@ -1,0 +1,9 @@
+# Configuración local
+.claude/
+.netlify/
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
